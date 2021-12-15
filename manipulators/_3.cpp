@@ -4,7 +4,7 @@ setiosflags(flag): It is used to set the format flags specified by parameter mas
 
 resetiosflags(m): It is used to reset the format flags specified by parameter
                   mask.
-
+some imp ones are as given belo:-
 showpos: It forces to show a positive sign on positive numbers.
 
 noshowpos: It forces not to write a positive sign on positive numbers.
