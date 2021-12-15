@@ -1,6 +1,6 @@
 //Simple C++ program basic structure type #2
 #include<iostream>
-using namespace std;
+using std::cout;
 int main(void){
   cout<<"Hello,"<<endl;
   cout<<"Welcome to C++ World"<<endl;

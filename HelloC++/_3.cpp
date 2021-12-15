@@ -7,10 +7,10 @@
 */
 
 #include<iostream>
-using namespace std;
+using std::cout;
 int main(void){
   cout<<"Hello,"<<endl;
-  cout<<"Welcome to C++ World"<<endl;
+  cout<<"Welcome to C++ World"<<std::endl;
   int a=5, b=6;
   cout<<"SUM : "<<a+b<<endl;
   cout<<"SUB: "<<a-b<<endl;
