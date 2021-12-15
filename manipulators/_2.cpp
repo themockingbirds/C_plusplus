@@ -12,9 +12,4 @@ setfill (c):  It is used to fill tempty space with the character ‘c’ on outp
 setprecision (val): It sets val as the new value for the precision of floating-point values.
 
 setbase(val): It is used to set the numeric base value for numeric values.
-
-setiosflags(flag): It is used to set the format flags specified by parameter mask.
-
-resetiosflags(m): It is used to reset the format flags specified by parameter
-                  mask.
 */
